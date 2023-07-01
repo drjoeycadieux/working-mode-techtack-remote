@@ -20,6 +20,6 @@ import Navbar from "../../components/Navbar.vue";
 .global-content p {
   font-family: sans-serif;
   color: black;
-  font-size: 23px;
+  font-size: 25px;
 }
 </style>
