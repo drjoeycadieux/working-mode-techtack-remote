@@ -1,9 +1,7 @@
 <template>
-  <h1>Hello {{ msg }}</h1>
+  <div>
+    <RouterView />
+  </div>
 </template>
 
-<script setup lang="ts">
-import { ref } from 'vue';
-
-const msg = ref<string>('World');
-</script>
+<script setup lang="ts"></script>
