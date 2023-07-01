@@ -5,7 +5,9 @@
     <ul>
       <p class="title">Techtack Technologies (remote)</p>
       <router-link class="linknav" to="/">Home</router-link>
-      <router-link class="linknav" to="/">Global Network</router-link>
+      <router-link class="linknav" to="/insiders/GlobalNetwork"
+        >Global Network</router-link
+      >
     </ul>
   </div>
 </template>
