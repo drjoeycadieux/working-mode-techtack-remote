@@ -21,5 +21,6 @@ import Navbar from "../../components/Navbar.vue";
   font-family: sans-serif;
   color: black;
   font-size: 25px;
+  font-weight: bold;
 }
 </style>
