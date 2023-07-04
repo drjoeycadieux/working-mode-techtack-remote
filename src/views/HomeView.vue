@@ -16,7 +16,6 @@ import Navbar from "@/components/Navbar.vue";
   padding: 5px;
   padding-top: 100px;
 }
-
 .homeView p {
   text-align: center;
   font-family: sans-serif;
