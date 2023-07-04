@@ -16,10 +16,10 @@ import Navbar from "../../components/Navbar.vue";
   text-align: center;
   padding-top: 100px;
 }
-
 .global-content p {
   font-family: sans-serif;
   color: black;
   font-size: 25px;
+  font-weight: bold;
 }
 </style>
