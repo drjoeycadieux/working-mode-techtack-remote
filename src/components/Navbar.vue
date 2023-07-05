@@ -14,7 +14,7 @@
 
 <style>
 .navbar-menu {
-  padding: 25px;
+  padding: 15px;
   background-color: rgb(20, 26, 80);
 }
 .title {
