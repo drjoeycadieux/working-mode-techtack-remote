@@ -11,7 +11,7 @@
 
 <style>
 .info-banner {
-  padding: 10px;
+  padding: 5px;
   background-color: rgb(24, 31, 100);
 }
 .info-banner p {

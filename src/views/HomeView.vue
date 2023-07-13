@@ -1,11 +1,11 @@
 <script setup>
-import Navbar from "@/components/Navbar.vue";
 import InfoBanner from "../components/InfoBanner.vue";
+import Header from "../components/Header.vue";
 </script>
 
 <template>
   <main>
-    <Navbar />
+    <Header />
     <InfoBanner />
     <div class="homeView">
       <p>HomeView</p>
