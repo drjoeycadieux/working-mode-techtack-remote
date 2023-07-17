@@ -3,7 +3,7 @@
 <template>
   <div class="navbar-menu">
     <ul>
-      <p class="title">Techtack Technologies (remote)</p>
+      <p class="title">Techtack Technologies (Home Edition)</p>
       <router-link class="linknav" to="/">Home</router-link>
       <router-link class="linknav" to="/insiders/GlobalNetwork"
         >Global Network</router-link

@@ -1,10 +1,12 @@
 <script setup>
 import InfoBanner from "../components/InfoBanner.vue";
 import Header from "../components/Header.vue";
+import Navbar from "../components/Navbar.vue";
 </script>
 
 <template>
   <main>
+    <Navbar />
     <Header />
     <InfoBanner />
     <div class="homeView">
@@ -16,7 +18,7 @@ import Header from "../components/Header.vue";
 <style>
 .homeView {
   padding: 5px;
-  padding-top: 100px;
+  margin-top: 100px;
 }
 .homeView p {
   text-align: center;
