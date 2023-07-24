@@ -3,6 +3,7 @@ import InfoBanner from "../components/InfoBanner.vue";
 import Header from "../components/Header.vue";
 import Navbar from "../components/Navbar.vue";
 import Layout from "../components/Layout.vue";
+import Footer from "../components/Footer.vue";
 </script>
 
 <template>
@@ -12,8 +13,11 @@ import Layout from "../components/Layout.vue";
     <Header />
     <InfoBanner />
     <div class="homeView">
-      <p>HomeView</p>
+      <center>
+        <img src="../assets/techtack-technologies.png" />
+      </center>
     </div>
+    <Footer />
   </main>
 </template>
 
