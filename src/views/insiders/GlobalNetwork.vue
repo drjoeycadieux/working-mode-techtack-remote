@@ -1,10 +1,14 @@
 <script setup>
 import Navbar from "../../components/Navbar.vue";
+import Layout from "../../components/Layout.vue";
+import Header from "../../components/Header.vue";
 </script>
 
 <template>
   <div class="global">
     <Navbar />
+    <Layout />
+    <Header />
     <div class="global-content">
       <p>Global Network Page</p>
     </div>
