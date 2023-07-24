@@ -12,7 +12,7 @@
 <style>
 .info-banner {
   padding: 5px;
-  background-color: rgb(126, 174, 212);
+  background-color: rgb(125, 171, 240);
 }
 .info-banner p {
   color: white;

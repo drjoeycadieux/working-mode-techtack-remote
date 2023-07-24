@@ -2,11 +2,13 @@
 import InfoBanner from "../components/InfoBanner.vue";
 import Header from "../components/Header.vue";
 import Navbar from "../components/Navbar.vue";
+import Layout from "../components/Layout.vue";
 </script>
 
 <template>
   <main>
     <Navbar />
+    <Layout />
     <Header />
     <InfoBanner />
     <div class="homeView">

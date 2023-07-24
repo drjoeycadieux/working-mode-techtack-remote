@@ -1,15 +1,26 @@
+<script setup>
+import Navbar from "../components/Navbar.vue";
+import Layout from "../components/Layout.vue";
+</script>
+
 <template>
+  <div class="nav-top-main">
+    <Navbar />
+    <Layout />
+  </div>
   <div class="about">
-    <h1>This is an about page</h1>
+    <p>This is an about page</p>
   </div>
 </template>
 
 <style>
-@media (min-width: 1024px) {
-  .about {
-    min-height: 100vh;
-    display: flex;
-    align-items: center;
-  }
+.about {
+  padding: 0;
+  text-align: center;
+}
+.about p {
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  font-size: 32px;
 }
 </style>
