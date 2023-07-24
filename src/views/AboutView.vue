@@ -1,12 +1,14 @@
 <script setup>
 import Navbar from "../components/Navbar.vue";
 import Layout from "../components/Layout.vue";
+import Header from "../components/Header.vue";
 </script>
 
 <template>
   <div class="nav-top-main">
     <Navbar />
     <Layout />
+    <Header />
   </div>
   <div class="about">
     <p>This is an about page</p>
