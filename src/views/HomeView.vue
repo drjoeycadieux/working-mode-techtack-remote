@@ -17,6 +17,7 @@ import Footer from "../components/Footer.vue";
         <img class="logo" src="../assets/techtack-technologies.png" />
       </center>
     </div>
+    <Layout />
     <Footer />
   </main>
 </template>
