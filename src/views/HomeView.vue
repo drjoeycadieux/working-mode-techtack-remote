@@ -14,7 +14,7 @@ import Footer from "../components/Footer.vue";
     <InfoBanner />
     <div class="homeView">
       <center>
-        <img src="../assets/techtack-technologies.png" />
+        <img class="logo" src="../assets/techtack-technologies.png" />
       </center>
     </div>
     <Footer />
@@ -32,5 +32,8 @@ import Footer from "../components/Footer.vue";
   color: black;
   font-weight: bold;
   font-size: 25px;
+}
+.logo {
+  border-radius: 15px;
 }
 </style>

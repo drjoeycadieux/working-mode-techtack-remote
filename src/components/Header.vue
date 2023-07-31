@@ -10,12 +10,12 @@
 <style>
 .header {
   padding: 100px;
-  background-color: rgb(108, 160, 238);
+  background-color: #143787;
 }
 .header p {
   text-align: center;
   font-family: sans-serif;
-  color: black;
+  color: white;
   font-weight: bold;
   font-size: 30px;
 }
