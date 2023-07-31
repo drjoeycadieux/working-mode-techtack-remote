@@ -17,9 +17,9 @@
   font-family: sans-serif;
   color: white;
   font-weight: bold;
-  font-size: 30px;
+  font-size: 35px;
 }
 .header #text2 {
-  font-size: 32px;
+  font-size: 30px;
 }
 </style>

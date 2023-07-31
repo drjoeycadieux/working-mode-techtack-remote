@@ -3,7 +3,7 @@
 <template>
   <div class="navbar-menu">
     <ul>
-      <p class="title">Techtack Technologies (Home Edition)</p>
+      <p class="title">Techtack Technologies &rarr; <span>Internal</span></p>
       <router-link class="linknav" to="/">Home</router-link>
       <router-link class="linknav" to="/about">About</router-link>
       <router-link class="linknav" to="/insiders/GlobalNetwork"
@@ -22,6 +22,7 @@
   display: inline;
   margin: 8px;
   font-family: sans-serif;
+  font-weight: bold;
   color: white;
   font-size: 26px;
 }
