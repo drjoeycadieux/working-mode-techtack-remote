@@ -21,6 +21,7 @@
 .logo-nav {
   width: 95px;
   justify-content: center;
+  border-radius: 10px;
 }
 .navbar-menu {
   padding: 15px;
