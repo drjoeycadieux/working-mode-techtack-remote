@@ -4,7 +4,7 @@
 
 <style>
 .inner {
-  padding: 1px;
+  padding: 2px;
   background-color: brown;
 }
 </style>

@@ -3,10 +3,6 @@
 <template>
   <div class="navbar-menu">
     <ul>
-      <img
-        class="logo-nav"
-        src="https://techtack-technologies.com/assets/logo_main.png"
-      />
       <p class="title">Techtack Technologies &rarr; <span>Internal</span></p>
       <router-link class="linknav" to="/">Home</router-link>
       <router-link class="linknav" to="/about">About</router-link>
@@ -18,12 +14,6 @@
 </template>
 
 <style>
-.logo-nav {
-  width: 95px;
-  border-radius: 10px;
-  display: inline;
-  margin: 8px;
-}
 .navbar-menu {
   padding: 15px;
   background-color: #32394e;
