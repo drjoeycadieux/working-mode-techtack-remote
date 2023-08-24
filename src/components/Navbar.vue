@@ -20,8 +20,9 @@
 <style>
 .logo-nav {
   width: 95px;
-  justify-content: center;
   border-radius: 10px;
+  display: inline;
+  margin: 8px;
 }
 .navbar-menu {
   padding: 15px;
