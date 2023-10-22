@@ -2,8 +2,7 @@
 
 <template>
   <div class="header">
-    <p>Techtack Technologies</p>
-    <p id="text2">Every Day We Write code!</p>
+    <p>TeamLitho - The Most Advanced Platform From Developers.</p>
   </div>
 </template>
 
