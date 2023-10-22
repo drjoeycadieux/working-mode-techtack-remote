@@ -18,7 +18,4 @@
   font-weight: bold;
   font-size: 35px;
 }
-.header #text2 {
-  font-size: 30px;
-}
 </style>

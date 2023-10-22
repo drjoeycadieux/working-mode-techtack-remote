@@ -1,5 +1,4 @@
 <script setup>
-import InfoBanner from "../components/InfoBanner.vue";
 import Header from "../components/Header.vue";
 import Navbar from "../components/Navbar.vue";
 import Layout from "../components/Layout.vue";
@@ -11,7 +10,6 @@ import Footer from "../components/Footer.vue";
     <Navbar />
     <Layout />
     <Header />
-    <InfoBanner />
     <div class="homeView">
       <center>
         <img class="logo" src="../assets/techtack-technologies.png" />
